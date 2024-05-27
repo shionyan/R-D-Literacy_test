@@ -1,0 +1,78 @@
+commit e91faa25ffd94ad4d2a55b956874e01cbdd0715d
+Merge: ec892f7 f914580
+Author: shionyan <221205085@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 13 16:00:19 2024 +0900
+
+    Merge branch 'maion' of https://github.com/shionyan/RandD-Literacy into maion
+
+commit ec892f750cd6fdced80a1f9911a07789e99530d3
+Author: shionyan <221205085@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 13 15:54:43 2024 +0900
+
+    Update tetris.js
+    
+    skyblue -> pink
+
+commit f914580c751318a29cf2ff025c9b67b63beb6a47
+Author: shionyan <146417819+shionyan@users.noreply.github.com>
+Date:   Mon May 13 15:54:06 2024 +0900
+
+    Update tetris.js
+
+commit 8e006e2d424ad362bb58da410d4a89fc19694699
+Author: shionyan <146417819+shionyan@users.noreply.github.com>
+Date:   Mon May 13 15:46:42 2024 +0900
+
+    change color tetris.js
+
+commit 8d7b5e81b748c02bff68a4ad1111fe5ccc0cc736
+Author: shionyan <221205085@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 13 15:09:41 2024 +0900
+
+    import canvas-tetris
+
+commit 6c4485d7e9c99468af2dc7947c718f11a114084a
+Author: shionyan <221205085@ccmailg.meijo-u.ac.jp>
+Date:   Mon Apr 29 17:25:38 2024 +0900
+
+    Add class name
+
+commit 48d8ecf119991b8f688fe0383f8d44bc12d8035a
+Author: shionyan <146417819+shionyan@users.noreply.github.com>
+Date:   Mon Apr 29 17:13:35 2024 +0900
+
+    Add color size
+
+commit 8e52d6dbf35b3b3a9a9193bce81563f10dbc6d6e
+Author: shionyan <146417819+shionyan@users.noreply.github.com>
+Date:   Mon Apr 29 17:10:22 2024 +0900
+
+    Update index.html
+
+commit 1e0b77bc1c97fe059163fdead8716b77265a72cd
+Author: shionyan <146417819+shionyan@users.noreply.github.com>
+Date:   Mon Apr 29 17:04:10 2024 +0900
+
+    fix code
+
+commit f0093b0225d1524b41a42e7feab40bf4c89dc45c
+Author: shionyan <146417819+shionyan@users.noreply.github.com>
+Date:   Mon Apr 29 17:00:41 2024 +0900
+
+    Enrich hoge
+
+commit 07939b5c896fd0c673ac9049959a0408d4eb9c64
+Author: shionyan <146417819+shionyan@users.noreply.github.com>
+Date:   Mon Apr 29 16:45:35 2024 +0900
+
+    Update index.html
+    
+    Add hogehoge
+
+commit 755cc6f7f050b11629adc0514ef62632d46f2f93
+Author: shionyan <146417819+shionyan@users.noreply.github.com>
+Date:   Mon Apr 29 16:43:53 2024 +0900
+
+    Create index.html
+    
+    init
